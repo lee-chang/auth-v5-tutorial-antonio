@@ -1,8 +1,8 @@
-import RegisterForm from "@/components/auth/register-form"
+import LoginForm from "@/components/auth/login-form"
 
-const RegisterPage = () => {
+const LoginPage = () => {
   return (
-    <RegisterForm />
+    <LoginForm />
   )
 }
-export default RegisterPage
+export default LoginPage
